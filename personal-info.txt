@@ -1,0 +1,11 @@
+Name:Rose Ann M. Galicia
+Year&Block:BSIT 2-D
+Birthday:August 26,2000
+Age:20
+Gender:Female
+Address:Zone-7 Bulan,Sorsogon
+Fav.colors:Violet and lightblue
+Fav.habits:Singing,dancing,watching TV
+Fav.song:You're still the one
+Contact nom:09484689463
+
