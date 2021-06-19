@@ -1,0 +1,2 @@
+Git is  a type of version control system(VCS) that makes it easier to track changes to files. Git keeps track of changes made to files, so it has a record of what has been done and can go back to the specific versions that should be needed.
+GitHub is a web-based platform used for  version control. git also makes collaboration easier, allowing multiple changes to be integrated all into one resource.
